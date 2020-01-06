@@ -1,0 +1,5 @@
+﻿  SR830 Sample.c
+c:\users\hasee\source\repos\sr830-driver\code\sr830 sample\sr830 sample.c(68): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  SR830-Driver.c
+c:\users\hasee\source\repos\sr830-driver\code\sr830 sample\sr830-driver.c(159): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
